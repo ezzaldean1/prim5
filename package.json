@@ -1,0 +1,30 @@
+{
+
+    "name": " prim5.js",
+
+    "version": "2.1.0",
+
+    "description": "-- AWESOMENESS --",
+
+    "main": " prim5.js",
+
+    "scripts": {
+
+      "start": "node prim5.js"
+
+    },
+
+    "dependencies": {
+
+        "discord.js": "^11.3.2"
+
+        },
+
+    "engines": {
+
+      "node": "8.4.0"
+
+    }
+
+  }
+
