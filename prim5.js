@@ -12,7 +12,7 @@ client.on('ready', () => {
 
   client.user.setStatus("Online")
 
-    client.user.setActivity(" Crystal Server",{type: 'WATCHING'})
+    client.user.setActivity(" Crystal Shop",{type: 'WATCHING'})
 
 	});
 
@@ -92,7 +92,7 @@ client.on('message' , message => {
 
            const adminprefix = "#";//by ,$ ReBeL ء , ??#4777 'CODES SERVER'
 
-const devs = ['477591209943105538'];//by ,$ ReBeL ء , ??#4777 'CODES SERVER'
+const devs = ['474175378118803466'];//by ,$ ReBeL ء , ??#4777 'CODES SERVER'
 
 client.on('message', message => {//by ,$ ReBeL ء , ??#4777 'CODES SERVER'
 
